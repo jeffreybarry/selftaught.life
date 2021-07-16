@@ -1,8 +1,11 @@
+
+
 body {
-  background-color: #F4F4F9;
-  color: #141414;
+  color: #F4F4F9;
   font-family: 'Lato', sans-serif;
   min-height: 100vh;
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(88,111,124,1) 35%, rgba(0,212,255,1) 100%);
 
 }
 
@@ -20,6 +23,11 @@ h2 {
  margin-top: -1.75rem;
  margin-bottom: 2rem;
 }
+
+ .card h2 {
+  color: #F4F4F9;
+}
+
 footer {
   margin-top: auto;
 }
