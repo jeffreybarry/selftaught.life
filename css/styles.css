@@ -2,6 +2,8 @@ body {
   background-color: #F4F4F9;
   color: #141414;
   font-family: 'Lato', sans-serif;
+  min-height: 100vh;
+
 }
 
 h1 {
@@ -17,4 +19,11 @@ h2 {
   font-family: 'Lora', serif;
  margin-top: -1.75rem;
  margin-bottom: 2rem;
+}
+footer {
+  margin-top: auto;
+}
+
+.card {
+  word-wrap:  normal;
 }
