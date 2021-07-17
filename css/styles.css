@@ -4,20 +4,19 @@ body {
   color: #F4F4F9;
   font-family: 'Lato', sans-serif;
   min-height: 100vh;
-  background: rgb(2,0,36);
-  background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(88,111,124,1) 35%, rgba(0,212,255,1) 100%);
+  background-color: #537A8D;
 
 }
 
 h1 {
-  color: #2F4550;
+  color: #222b30;
  font-family: 'Lora', serif;
  font-size: 8rem;
  margin-bottom: 0;
 }
 
 h2 {
-  color: #586F7C;
+  color: #222b30;
   font-size: 1.75rem;
   font-family: 'Lora', serif;
  margin-top: -1.75rem;
