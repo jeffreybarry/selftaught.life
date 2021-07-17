@@ -1,8 +1,7 @@
 
 
 body {
-  color: #F4F4F9;
-  font-family: 'Lato', sans-serif;
+font-family: 'Roboto Slab', serif;
   min-height: 100vh;
   background-color: #537A8D;
 
@@ -10,7 +9,6 @@ body {
 
 h1 {
   color: #222b30;
- font-family: 'Lora', serif;
  font-size: 8rem;
  margin-bottom: 0;
 }
@@ -18,19 +16,4 @@ h1 {
 h2 {
   color: #222b30;
   font-size: 1.75rem;
-  font-family: 'Lora', serif;
- margin-top: -1.75rem;
- margin-bottom: 2rem;
-}
-
- .card h2 {
-  color: #F4F4F9;
-}
-
-footer {
-  margin-top: auto;
-}
-
-.card {
-  word-wrap:  normal;
 }
