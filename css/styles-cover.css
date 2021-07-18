@@ -1,19 +1,32 @@
+/*
+ * Globals
+ */
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: #333;
+    text-shadow: none;
+    /* Prevent inheritance from `body` */
+}
 
 
 body {
 font-family: 'Roboto Slab', serif;
-  min-height: 100vh;
   background-color: #537A8D;
 
 }
 
+
+
+
 h1 {
   color: #222b30;
  font-size: 8rem;
- margin-bottom: 0;
 }
 
 h2 {
   color: #222b30;
-  font-size: 1.75rem;
+  font-size:3rem;
+  margin-bottom: 2rem;
 }
